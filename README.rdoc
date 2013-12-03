@@ -1,0 +1,24 @@
+== README
+
+Learning Rails with a tutorial from the RailsApps project.
+Obican readme za sada.
+
+
+* Ruby version - 2.0.0
+
+* System dependencies
+
+* Configuration - pocetna
+
+* Database creation - default
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions - samo rokaj
+
+* ...
+
